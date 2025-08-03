@@ -26,8 +26,6 @@ Analyzing factors affecting maize &amp; bean yields in Rwanda (2000–2027) — 
 
 ---
 
----
-
 ##  Problem Statement & Motivation
 
 Agricultural production is critical to Rwanda’s economy and food security, yet crop yields are highly sensitive to environmental factors such as rainfall and input usage like fertilizer and land area. Policymakers and farmers often lack timely, data-driven tools to forecast trends and make informed decisions.
@@ -56,15 +54,20 @@ This project aims to explore historical data on rainfall, fertilizer use, and la
 
 ## Files Included
 
+## 📁 Files Included
+
 | File | Description |
 |------|-------------|
-| `notebooks/agriculture_yield_analysis.ipynb` | Full Python workflow: cleaning → modeling → forecasting |
-| `data/cleaned_dataset.csv` | Merged and cleaned dataset (2000–2021) |
-| `data/predicted_production_2022_2027.csv` | Forecast data for maize and beans |
-| `dashboard.pbix` | Power BI dashboard file |
-| `presentation/project_presentation.pptx` | 8-slide summary presentation |
-| `visuals/` | Screenshots from dashboard and EDA |
-| `README.md` | This file |
+| [`notebooks/agriculture_yield_analysis.ipynb`](notebooks/agriculture_yield_analysis.ipynb) | Full Python workflow: cleaning → modeling → forecasting |
+| [`data/cleaned_dataset.csv`](data/cleaned_dataset.csv) | Merged and cleaned dataset (2000–2021) |
+| [`data/predicted_production_2022_2027.csv`](data/predicted_production_2022_2027.csv) | Forecast data for maize and beans |
+| [`dashboard.pbix`](dashboard.pbix) | Power BI dashboard file |
+| [`presentation/project_presentation.pptx`](presentation/project_presentation.pptx) | 8-slide summary presentation |
+| [`page2_prod_inputs.png`](page2_prod_inputs.png) | Dashboard Page 2 – Production & Inputs |
+| [`page3_yield_insights.png`](page3_yield_insights.png) | Dashboard Page 3 – Yield Efficiency |
+| [`page4_summary_predictions.png`](page4_summary_predictions.png) | Dashboard Page 4 – Predictions & Summary |
+| [`README.md`](README.md) | This file |
+
 
 ---
 
