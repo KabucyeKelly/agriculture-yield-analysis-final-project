@@ -62,9 +62,9 @@ This project aims to explore historical data on rainfall, fertilizer use, and la
 | [predicted_production_2022_2027.xls](predicted_production_2022_2027.xls) | Forecast data for maize and beans |
 | [dashboard.pbix](dashboard.pbix) | Power BI dashboard file |
 | [capstone_presentation.pptx](capstone_presentation.pptx) | 8-slide summary presentation |
-| ![Page 2 – Production & Inputs](screenshots/page2_prod_inputs.PNG) | Dashboard Page 2 |
-| ![Page 3 – Yield Efficiency](screenshots/page3_yield_insights.PNG) | Dashboard Page 3 |
-| ![Page 4 – Predictions & Summary](screenshots/page4_summary_predictions.PNG) | Dashboard Page 4 |
+| ![Page 2 – Production & Inputs](page2_prod_inputs.PNG) | Dashboard Page 2 |
+| ![Page 3 – Yield Efficiency](page3_yield_insights.PNG) | Dashboard Page 3 |
+| ![Page 4 – Predictions & Summary](page4_summary_predictions.PNG) | Dashboard Page 4 |
 | [README.md](README.md) | This file |
 
 
