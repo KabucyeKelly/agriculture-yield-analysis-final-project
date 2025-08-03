@@ -54,19 +54,19 @@ This project aims to explore historical data on rainfall, fertilizer use, and la
 
 ## Files Included
 
-## 📁 Files Included
+##  Files Included
 
 | File | Description |
 |------|-------------|
-| [`notebooks/agriculture_yield_analysis.ipynb`](notebooks/agriculture_yield_analysis.ipynb) | Full Python workflow: cleaning → modeling → forecasting |
-| [`data/cleaned_dataset.csv`](data/cleaned_dataset.csv) | Merged and cleaned dataset (2000–2021) |
-| [`data/predicted_production_2022_2027.csv`](data/predicted_production_2022_2027.csv) | Forecast data for maize and beans |
-| [`dashboard.pbix`](dashboard.pbix) | Power BI dashboard file |
-| [`presentation/project_presentation.pptx`](presentation/project_presentation.pptx) | 8-slide summary presentation |
-| [`page2_prod_inputs.png`](page2_prod_inputs.png) | Dashboard Page 2 – Production & Inputs |
-| [`page3_yield_insights.png`](page3_yield_insights.png) | Dashboard Page 3 – Yield Efficiency |
-| [`page4_summary_predictions.png`](page4_summary_predictions.png) | Dashboard Page 4 – Predictions & Summary |
-| [`README.md`](README.md) | This file |
+| [agriculture_yield_analysis.ipynb](agriculture_yield_analysis.ipynb) | Full Python workflow: cleaning → modeling → forecasting |
+| [cleaned_agriculture_data.xls](cleaned_agriculture_data.xls) | Merged and cleaned dataset (2000–2021) |
+| [predicted_production_2022_2027.xls](predicted_production_2022_2027.xls) | Forecast data for maize and beans |
+| [dashboard.pbix](dashboard.pbix) | Power BI dashboard file |
+| [capstone_presentation.pptx](capstone_presentation.pptx) | 8-slide summary presentation |
+| ![Page 2 – Production & Inputs](page2_prod_inputs.PNG) | Dashboard Page 2 |
+| ![Page 3 – Yield Efficiency](page3_yield_insights.PNG) | Dashboard Page 3 |
+| ![Page 4 – Predictions & Summary](page4_summary_predictions.PNG) | Dashboard Page 4 |
+
 
 
 ---
@@ -82,7 +82,7 @@ All datasets were collected from **approved non-Kaggle sources**:
 
 ---
 
-## 📌 How to Run This Project
+##  How to Run This Project
 
 ### 1. Python
 - Open the notebook: `agriculture_yield_analysis.ipynb`
@@ -107,6 +107,6 @@ All datasets were collected from **approved non-Kaggle sources**:
 ## 📧 Submission Notice
 This README is intended for submission alongside:
 - 📎 `project_presentation.pptx`
-- 📁 GitHub repository link containing all project files
+-  GitHub repository link containing all project files
 
 
